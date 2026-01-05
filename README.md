@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml1c240bGQ0c3p2ZHZ6ZmRycGZyMnZyNmh6bDk2ZjZyMTd1ZTFhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="[https://www.linkedin.com/in/gabriela-irraz%C3%A1bal-008354185/]">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
   
 
 ---
